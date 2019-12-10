@@ -1,6 +1,6 @@
 <?php
 
-namespace Tutorigo\LaravelMacroHelper\Console;
+namespace kenzal\LaravelMacroHelper\Console;
 
 use Illuminate\Console\Command;
 

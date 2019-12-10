@@ -1,6 +1,6 @@
 <?php
 
-namespace Tutorigo\LaravelMacroHelper;
+namespace kenzal\LaravelMacroHelper;
 
 use Illuminate\Support\ServiceProvider;
 
